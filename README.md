@@ -6,6 +6,7 @@
  <br>
  Técnica em Desenvolvimento de Sistemas pelo IFAL 
  <br>
- Atualmente sou  monitora do Laboratório de Aplicativos do Campus Maceió (LAPP).
-
+ Instrutora e monitora do Laboratório de Aplicativos do Campus Maceió (LAPP).
+ <br>
+ Contato:  maryanneoliveira.dev@gmail.com
 
